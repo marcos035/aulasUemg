@@ -1,0 +1,2 @@
+# aulasUemg
+exercicios das aulas 
